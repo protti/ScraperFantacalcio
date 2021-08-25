@@ -12,5 +12,8 @@ la qualità di ogni calciatore.
 Il risultato finale sarà la creazione di 4 files .csv in cui in ogni file verranno inseriti il nome del calciatore, il suo ruolo, la squadra in cui milita ed il valore
 medio dei quattro parametri precedentemente specificati.
 
+Nella prossima relase verranno aggiunti altre funzionalità come gli Expected Goal, Expected Assist e l'unione di più siti web che calcolano in maniera oggettiva la 
+qualità di un singolo calciatore.
+
 ![alt text](https://i.ibb.co/Jp7CrV1/Maign.png)
 
