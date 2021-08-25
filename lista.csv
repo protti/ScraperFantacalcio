@@ -1,0 +1,528 @@
+R,Nome,Squadra
+A,RONALDO,Juventus
+A,MURIEL,Atalanta
+A,IMMOBILE,Lazio
+A,VLAHOVIC,Fiorentina
+A,ZAPATA D.,Atalanta
+A,IBRAHIMOVIC,Milan
+A,INSIGNE,Napoli
+C,MKHITARYAN,Roma
+A,MARTINEZ L.,Inter
+A,OSIMHEN,Napoli
+A,BELOTTI,Torino
+A,DZEKO,Inter
+A,BERARDI,Sassuolo
+C,CHIESA,Juventus
+A,ABRAHAM,Roma
+A,JOAO PEDRO,Cagliari
+C,KESSIE',Milan
+A,DYBALA,Juventus
+A,CAPUTO,Sassuolo
+C,MALINOVSKYI,Atalanta
+C,MILINKOVIC-SAVIC,Lazio
+C,VERETOUT,Roma
+A,ARNAUTOVIC,Bologna
+D,GOSENS,Atalanta
+C,LUIS ALBERTO,Lazio
+C,ZIELINSKI,Napoli
+A,LOZANO,Napoli
+A,MERTENS,Napoli
+A,REBIC,Milan
+C,PELLEGRINI LO.,Roma
+A,SANCHEZ,Inter
+A,MORATA,Juventus
+A,QUAGLIARELLA,Sampdoria
+C,CALHANOGLU,Inter
+A,ILICIC,Atalanta
+D,HERNANDEZ T.,Milan
+C,ZACCAGNI,Verona
+A,DESTRO,Genoa
+A,CORREA,Lazio
+A,GIROUD,Milan
+A,MAYORAL,Roma
+A,NZOLA,Spezia
+D,CUADRADO,Juventus
+C,SORIANO,Bologna
+C,BARELLA,Inter
+C,KULUSEVSKI,Juventus
+A,POLITANO,Napoli
+C,PASALIC,Atalanta
+C,ORSOLINI,Bologna
+C,ZANIOLO,Roma
+C,CANDREVA,Sampdoria
+C,PEREYRA,Udinese
+A,PAVOLETTI,Cagliari
+A,SIMY,Salernitana
+P,HANDANOVIC,Inter
+C,BARAK,Verona
+A,BARROW,Bologna
+A,BOGA,Sassuolo
+A,RASPADORI,Sassuolo
+P,MUSSO,Atalanta
+P,SZCZESNY,Juventus
+D,SKRINIAR,Inter
+C,FELIPE ANDERSON,Lazio
+C,RUIZ,Napoli
+C,DJURICIC,Sassuolo
+C,LOCATELLI,Juventus
+A,GONZALEZ N.,Fiorentina
+A,SHOMURODOV,Roma
+P,MAIGNAN,Milan
+C,FREULER,Atalanta
+C,MIRANCHUK,Atalanta
+C,MCKENNIE,Juventus
+C,TRAORE' HJ.,Sassuolo
+C,LAZOVIC,Verona
+A,GABBIADINI,Sampdoria
+A,SANABRIA,Torino
+P,REINA,Lazio
+P,MERET,Napoli
+P,RUI PATRICIO,Roma
+D,DE VRIJ,Inter
+D,DANILO,Juventus
+D,MANCINI,Roma
+D,FARAONI,Verona
+C,PESSINA,Atalanta
+C,CASTROVILLI,Fiorentina
+C,BROZOVIC,Inter
+C,DIAZ B.,Milan
+C,DAMSGAARD,Sampdoria
+A,CAICEDO,Lazio
+A,RAFAEL LEAO,Milan
+A,SCAMACCA,Sassuolo
+A,GYASI,Spezia
+A,VERDE,Spezia
+A,CUTRONE,Empoli
+D,HATEBOER,Atalanta
+D,SPINAZZOLA,Roma
+C,PERISIC,Inter
+C,MAGGIORE,Spezia
+A,LAMMERS,Atalanta
+A,PICCOLI,Atalanta
+A,SIMEONE,Cagliari
+A,MANCUSO,Empoli
+A,PUSSETTO,Udinese
+P,AUDERO,Sampdoria
+P,CONSIGLI,Sassuolo
+D,BONUCCI,Juventus
+D,DE LIGT,Juventus
+D,ACERBI,Lazio
+D,CALABRIA,Milan
+D,KJAER,Milan
+D,TOMORI,Milan
+D,KOULIBALY,Napoli
+D,KARSDORP,Roma
+D,BREMER,Torino
+D,MOLINA N.,Udinese
+D,DUMFRIES,Inter
+C,SVANBERG,Bologna
+C,MARIN,Cagliari
+C,NANDEZ,Cagliari
+A,DEFREL,Sassuolo
+A,DEULOFEU,Udinese
+A,OKAKA,Udinese
+A,LASAGNA,Verona
+A,PEDRO,Lazio
+A,HENRY,Venezia
+D,MILENKOVIC,Fiorentina
+D,BASTONI,Inter
+D,ALEX SANDRO,Juventus
+D,LAZZARI,Lazio
+D,DI LORENZO,Napoli
+D,ANSALDI,Torino
+C,DE ROON,Atalanta
+C,STROOTMAN,Cagliari
+C,BAJRAMI,Empoli
+C,BONAVENTURA,Fiorentina
+C,SAELEMAEKERS,Milan
+C,VERDI,Torino
+A,PETAGNA,Napoli
+A,EL SHAARAWY,Roma
+A,ZAZA,Torino
+A,PANDEV,Genoa
+P,CRAGNO,Cagliari
+P,DRAGOWSKI,Fiorentina
+P,SILVESTRI,Udinese
+D,DJIMSITI,Atalanta
+D,TOMIYASU,Bologna
+D,SMALLING,Roma
+D,FERRARI G.,Sassuolo
+D,CHIELLINI,Juventus
+C,VIGNATO,Bologna
+C,VIDAL,Inter
+C,BENTANCUR,Juventus
+C,DEMME,Napoli
+C,MANDRAGORA,Torino
+C,ARAMU,Venezia
+A,SANSONE,Bologna
+A,CAPRARI,Sampdoria
+P,SKORUPSKI,Bologna
+P,MILINKOVIC-SAVIC V.,Torino
+P,MONTIPO',Verona
+D,MAEHLE,Atalanta
+D,TOLOI,Atalanta
+D,DE SILVESTRI,Bologna
+D,BIRAGHI,Fiorentina
+D,DARMIAN,Inter
+D,MANOLAS,Napoli
+D,FLORENZI,Milan
+D,AUGELLO,Sampdoria
+D,COLLEY,Sampdoria
+D,YOSHIDA,Sampdoria
+D,NUYTINCK,Udinese
+D,VINA,Roma
+C,SKOV OLSEN,Bologna
+C,RABIOT,Juventus
+C,ELMAS,Napoli
+C,THORSBY,Sampdoria
+C,LUKIC,Torino
+C,SIGURDSSON A.,Venezia
+A,BONAZZOLI,Salernitana
+A,LLORENTE,Udinese
+A,NESTOROVSKI,Udinese
+A,FORTE,Venezia
+A,KALINIC,Verona
+A,EKUBAN,Genoa
+D,PALOMINO,Atalanta
+D,GODIN,Cagliari
+D,LYKOGIANNIS,Cagliari
+D,CRISCITO,Genoa
+D,DIMARCO,Inter
+D,LUIZ FELIPE,Lazio
+D,IBANEZ,Roma
+D,BASTONI S.,Spezia
+D,ERLIC,Spezia
+D,IZZO,Torino
+C,PEREIRO,Cagliari
+C,PULGAR,Fiorentina
+C,SAPONARA,Fiorentina
+C,SOTTIL,Fiorentina
+C,BADELJ,Genoa
+C,RAMSEY,Juventus
+C,LUCAS LEIVA,Lazio
+C,VERRE,Sampdoria
+C,FRATTESI,Sassuolo
+C,LOPEZ M.,Sassuolo
+C,ARSLAN,Udinese
+C,HEYMANS,Venezia
+C,MATHEUS HENRIQUE,Sassuolo
+C,ILIC,Verona
+A,CARLES PEREZ,Roma
+A,IAGO FALQUE,Torino
+P,SIRIGU,Genoa
+D,BONIFAZI,Bologna
+D,SOUMAORO,Bologna
+D,ZAPPA,Cagliari
+D,ROMAGNOLI,Milan
+D,BERESZYNSKI,Sampdoria
+D,MULDUR,Sassuolo
+D,AMIAN,Spezia
+D,SINGO,Torino
+D,SAMIR,Udinese
+D,STRYGER LARSEN,Udinese
+D,ZEEGELAAR,Udinese
+D,PEZZELLA GIU.,Atalanta
+D,VASQUEZ,Genoa
+D,NASTASIC,Fiorentina
+C,SCHOUTEN,Bologna
+C,ROG,Cagliari
+C,HAAS,Empoli
+C,AMRABAT,Fiorentina
+C,CALLEJON,Fiorentina
+C,AGUDELO,Genoa
+C,SENSI,Inter
+C,BENNACER,Milan
+C,CRISTANTE,Roma
+C,MIGUEL VELOSO,Verona
+C,TAMEZE,Verona
+A,LA MANTIA,Empoli
+A,PINAMONTI,Inter
+A,OUNAS,Napoli
+A,TORREGROSSA,Sampdoria
+A,OKEREKE,Venezia
+P,ZOET,Spezia
+D,DIJKS,Bologna
+D,CEPPITELLI,Cagliari
+D,WALUKIEWICZ,Cagliari
+D,CZYBORRA,Genoa
+D,SABELLI,Genoa
+D,VANHEUSDEN,Genoa
+D,HYSAJ,Lazio
+D,MARUSIC,Lazio
+D,MARIO RUI,Napoli
+D,KUMBULLA,Roma
+D,CHIRICHES,Sassuolo
+D,KYRIAKOPOULOS,Sassuolo
+D,ROGERIO,Sassuolo
+D,ISMAJLI,Empoli
+D,BUONGIORNO,Torino
+D,LYANCO,Torino
+D,VOJVODA,Torino
+D,SCHNEGG,Venezia
+D,DAWIDOWICZ,Verona
+D,GUNTER,Verona
+C,DOMINGUEZ,Bologna
+C,GAGLIARDINI,Inter
+C,CASTILLEJO,Milan
+C,KRUNIC,Milan
+C,POBEGA,Milan
+C,ADRIEN SILVA,Sampdoria
+C,EKDAL,Sampdoria
+C,LEO' SENA,Spezia
+C,LINETTY,Torino
+C,RINCON,Torino
+C,COULIBALY M.,Salernitana
+C,WALACE,Udinese
+C,FIORDILINO,Venezia
+C,HERNANI,Genoa
+A,FARIAS,Cagliari
+A,DJURIC,Salernitana
+P,VICARIO,Empoli
+P,BELEC,Salernitana
+P,LEZZERINI,Venezia
+D,RECA,Atalanta
+D,CARBONI,Cagliari
+D,DALBERT,Cagliari
+D,NIKOLAOU,Spezia
+D,ROMAGNOLI S.,Empoli
+D,STOJANOVIC,Empoli
+D,MARTINEZ QUARTA,Fiorentina
+D,BIRASCHI,Genoa
+D,D'AMBROSIO,Inter
+D,DEMIRAL,Atalanta
+D,RUGANI,Juventus
+D,RADU,Lazio
+D,BALLO-TOURE',Milan
+D,RRAHMANI,Napoli
+D,JAROSZYNSKI,Salernitana
+D,TONELLI,Sampdoria
+D,GOLDANIGA,Sassuolo
+D,MARCHIZZA,Empoli
+D,TOLJAN,Sassuolo
+D,AINA,Torino
+D,RODRIGUEZ R.,Torino
+D,RODRIGO BECAO,Udinese
+D,CECCARONI,Venezia
+D,MAGNANI,Verona
+C,KOVALENKO,Spezia
+C,RICCI S.,Empoli
+C,STULAC,Empoli
+C,STURARO,Genoa
+C,VECINO,Inter
+C,ARTHUR,Juventus
+C,BERNARDESCHI,Juventus
+C,TONALI,Milan
+C,LOBOTKA,Napoli
+C,DIAWARA,Roma
+C,VILLAR,Roma
+C,BASELLI,Torino
+C,PERETZ,Venezia
+C,TESSMANN,Venezia
+C,BESSA,Verona
+C,BUSIO,Venezia
+C,KASTANOS,Salernitana
+A,KOKORIN,Fiorentina
+A,SATRIANO,Inter
+A,DI MARIANO,Venezia
+A,JOHNSEN,Venezia
+A,KAIO JORGE,Juventus
+D,MBAYE,Bologna
+D,PARISI,Empoli
+D,IGOR,Fiorentina
+D,BANI,Genoa
+D,GHIGLIONE,Genoa
+D,MASIELLO,Genoa
+D,RADOVANOVIC,Genoa
+D,DE SCIGLIO,Juventus
+D,PELLEGRINI LU.,Juventus
+D,FARES,Lazio
+D,BOGDAN,Salernitana
+D,GYOMBER,Salernitana
+D,VESELI,Salernitana
+D,ZORTEA,Salernitana
+D,CHABOT,Sampdoria
+D,UDOGIE,Udinese
+D,EBUEHI,Venezia
+D,MAZZOCCHI,Venezia
+D,MODOLO,Venezia
+D,CECCHERINI,Verona
+D,LOVATO,Atalanta
+C,BANDINELLI,Empoli
+C,ZURKOWSKI,Empoli
+C,BENASSI,Fiorentina
+C,DUNCAN,Fiorentina
+C,MALEH,Fiorentina
+C,BEHRAMI,Genoa
+C,ROVELLA,Genoa
+C,CAPEZZI,Salernitana
+C,DI TACCHIO,Salernitana
+C,OBI,Salernitana
+C,VIEIRA,Sampdoria
+C,BOURABIA,Sassuolo
+C,OBIANG,Sassuolo
+C,TAUGOURDEAU,Venezia
+C,HONGLA,Verona
+C,HENDERSON L.,Empoli
+A,COLLEY E.,Spezia
+A,SANTANDER,Bologna
+A,SALCEDO E.,Inter
+A,PJACA,Torino
+A,MORO,Lazio
+A,MURIQI,Lazio
+D,HICKEY,Bologna
+D,FARAGO',Cagliari
+D,FIAMOZZI,Empoli
+D,VENUTI,Fiorentina
+D,KOLAROV,Inter
+D,PATRIC,Lazio
+D,CALDARA,Venezia
+D,MALCUIT,Napoli
+D,REYNOLDS,Roma
+D,DEPAOLI,Sampdoria
+D,FERRARI A.,Sampdoria
+D,MURILLO,Sampdoria
+D,MURRU,Sampdoria
+D,AYHAN,Sassuolo
+D,PELUSO,Sassuolo
+D,VIGNALI,Spezia
+D,DE MAIO,Udinese
+D,CASALE,Verona
+D,JUAN JESUS,Napoli
+C,MEDEL,Bologna
+C,AGOUME,Inter
+C,AKPA AKPRO,Lazio
+C,CATALDI,Lazio
+C,ESCALANTE,Lazio
+C,HARASLIN,Sassuolo
+C,JAJALO,Udinese
+C,CRNIGOJ,Venezia
+C,DEZI,Venezia
+C,SAMARDZIC,Udinese
+C,GRASSI,Cagliari
+A,FAVILLI,Genoa
+A,EDERA,Torino
+A,MILLICO,Torino
+A,FORESTIERI,Udinese
+A,DI CARMINE,Verona
+A,CRISTO,Udinese
+D,RUGGERI,Salernitana
+D,SUTALO,Atalanta
+D,DENSWIL,Bologna
+D,ALTARE,Cagliari
+D,TERZIC,Fiorentina
+D,RANOCCHIA,Inter
+D,FRABOTTA,Verona
+D,VAVRO,Lazio
+D,CONTI,Milan
+D,KALULU,Milan
+D,GHOULAM,Napoli
+D,LUPERTO,Empoli
+D,CALAFIORI,Roma
+D,AYA,Salernitana
+D,STRANDBERG,Salernitana
+D,FERRER,Spezia
+D,HRISTOV,Spezia
+D,SALA,Spezia
+D,DJIDJI,Torino
+D,FELICIOLI,Venezia
+D,MOLINARO,Venezia
+D,SVOBODA,Venezia
+D,CETIN,Verona
+D,EMPEREUR,Verona
+D,RUEGG,Verona
+D,KECHRIDA,Salernitana
+D,CAMBIASO,Genoa
+D,SERPE,Genoa
+C,DEIOLA,Cagliari
+C,CROCIATA,Empoli
+C,CASSATA,Genoa
+C,MELEGONI,Genoa
+C,LAZARO,Inter
+C,DARBOE,Roma
+C,MAGNANELLI,Sassuolo
+C,MAKENGO,Udinese
+C,COULIBALY L.,Salernitana
+C,ANDERSON A.,Lazio
+A,VAN HOOIJDONK,Bologna
+A,MRAZ,Spezia
+A,KALLON,Genoa
+A,CANCELLIERI,Verona
+A,BIANCHI F.,Genoa
+A,GALAZZI,Venezia
+P,ROSSI F.,Atalanta
+P,SPORTIELLO,Atalanta
+P,BARDI,Bologna
+P,SARR M.,Bologna
+P,ARESTI,Cagliari
+P,RADUNOVIC,Cagliari
+P,BRIGNOLI,Empoli
+P,FURLAN,Empoli
+P,ROSATI,Fiorentina
+P,TERRACCIANO,Fiorentina
+P,ANDRENACCI,Genoa
+P,MARCHETTI,Genoa
+P,CORDAZ,Inter
+P,RADU I.,Inter
+P,PERIN,Juventus
+P,PINSOGLIO,Juventus
+P,STRAKOSHA,Lazio
+P,PLIZZARI,Milan
+P,TATARUSANU,Milan
+P,OSPINA,Napoli
+P,BOER,Roma
+P,FUZATO,Roma
+P,FALCONE,Sampdoria
+P,RAVAGLIA,Sampdoria
+P,PEGOLO,Sassuolo
+P,KRAPIKAS,Spezia
+P,PROVEDEL,Spezia
+P,BERISHA,Torino
+P,GEMELLO,Torino
+P,PADELLI,Udinese
+P,SCUFFET,Udinese
+P,MAENPAA,Venezia
+P,BERARDI A.,Verona
+P,PANDUR,Verona
+P,ADAMONIS,Lazio
+P,FIORILLO,Salernitana
+P,SEMPER,Genoa
+P,MARFELLA,Napoli
+P,SATALINO,Sassuolo
+P,BERTINATO,Venezia
+P,ZOVKO,Spezia
+D,BINKS,Bologna
+D,DRAGUSIN,Juventus
+D,KAMENOVIC,Lazio
+D,GABBIA,Milan
+D,KAIQUE ROCHA,Sampdoria
+D,ROMAGNA,Sassuolo
+D,OPOKU,Udinese
+D,AMIONE,Verona
+D,SCALVINI,Atalanta
+D,ZANOLI,Napoli
+C,CORTINOVIS,Atalanta
+C,LADINETTI,Cagliari
+C,DAMIANI,Empoli
+C,FAGIOLI,Juventus
+C,MALDINI,Milan
+C,CIERVO,Roma
+C,ZALEWSKI,Roma
+C,SCHIAVONE,Salernitana
+C,ASKILDSEN,Sampdoria
+C,SEGRE,Torino
+C,PALUMBO,Udinese
+C,BJARKASON,Venezia
+C,PECILE,Venezia
+C,VACCA,Venezia
+C,ROMERO L.,Lazio
+C,BIANCO,Fiorentina
+C,YEPES,Sampdoria
+C,SHER,Spezia
+C,BOVE,Roma
+A,MUNTEANU,Fiorentina
+A,BUKSA,Genoa
+A,KRISTOFFERSEN,Salernitana
+A,ODDEI,Sassuolo
+A,WARMING,Torino
+A,BOCALON,Venezia
+A,DE LUCA,Sampdoria
