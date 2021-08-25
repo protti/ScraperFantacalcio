@@ -3,9 +3,9 @@
 ## Italian Version
 
 **ScraperFantacalcio** è un tool che permette di analizzare i dati oggettivi calcolati da https://www.fantacalciopedia.com/, 
-affinchè in fase di asta si possa avere un dato oggettivo sulla qualità del giocatore acquistato.
+affinchè prima durante e dopo l'asta si possa avere un dato oggettivo sulla qualità del calciatore acquistato.
 
-Questo tool, infatti, estrae i dati di ogni giocatore ( *ALG FCP*, *Punteggio FantaCalcioPedia*, *Solidità fantainvestimento*, *Resistenza infortuni*) calcolati in 
+Questo tool, infatti, estrae i dati di ogni calciatore ( *ALG FCP*, *Punteggio FantaCalcioPedia*, *Solidità fantainvestimento*, *Resistenza infortuni*) calcolati in 
 maniera oggettiva e sulla base dei rendimenti annuali di ogni calciatore, e ne fa una media affinché si possa ottenere un parametro finale per valutare
 la qualità di ogni calciatore.
 
